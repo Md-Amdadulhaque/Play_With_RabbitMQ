@@ -12,7 +12,7 @@ class Program
     public static void Main()
     {
 
-        int cnt = 5;
+        int cnt = 10;
         while (cnt>0)
         {
 

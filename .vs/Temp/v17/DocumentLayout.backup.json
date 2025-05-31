@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Temp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F72ABD2F-FF9F-40F1-AC77-6F59B7F4C7CA}|Temp.csproj|d:\\temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72ABD2F-FF9F-40F1-AC77-6F59B7F4C7CA}|Temp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72ABD2F-FF9F-40F1-AC77-6F59B7F4C7CA}|Temp.csproj|d:\\temp\\listener\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72ABD2F-FF9F-40F1-AC77-6F59B7F4C7CA}|Temp.csproj|solutionrelative:listener\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72ABD2F-FF9F-40F1-AC77-6F59B7F4C7CA}|Temp.csproj|d:\\temp\\publisher\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72ABD2F-FF9F-40F1-AC77-6F59B7F4C7CA}|Temp.csproj|solutionrelative:publisher\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Listener.cs",
+              "DocumentMoniker": "D:\\Temp\\Listener\\Listener.cs",
+              "RelativeDocumentMoniker": "Listener\\Listener.cs",
+              "ToolTip": "D:\\Temp\\Listener\\Listener.cs",
+              "RelativeToolTip": "Listener\\Listener.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:25:28.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\Temp\\Publisher\\Publisher.cs",
+              "RelativeDocumentMoniker": "Publisher\\Publisher.cs",
+              "ToolTip": "D:\\Temp\\Publisher\\Publisher.cs",
+              "RelativeToolTip": "Publisher\\Publisher.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:58:02.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Temp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Temp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:42:38.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

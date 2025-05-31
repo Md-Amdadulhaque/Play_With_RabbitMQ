@@ -1,0 +1,17 @@
+D:\Temp\obj\Debug\net8.0\Temp.csproj.AssemblyReference.cache
+D:\Temp\obj\Debug\net8.0\Temp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\obj\Debug\net8.0\Temp.AssemblyInfoInputs.cache
+D:\Temp\obj\Debug\net8.0\Temp.AssemblyInfo.cs
+D:\Temp\obj\Debug\net8.0\Temp.csproj.CoreCompileInputs.cache
+D:\Temp\bin\Debug\net8.0\Temp.exe
+D:\Temp\bin\Debug\net8.0\Temp.deps.json
+D:\Temp\bin\Debug\net8.0\Temp.runtimeconfig.json
+D:\Temp\bin\Debug\net8.0\Temp.dll
+D:\Temp\bin\Debug\net8.0\Temp.pdb
+D:\Temp\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Temp\obj\Debug\net8.0\Temp.csproj.Up2Date
+D:\Temp\obj\Debug\net8.0\Temp.dll
+D:\Temp\obj\Debug\net8.0\refint\Temp.dll
+D:\Temp\obj\Debug\net8.0\Temp.pdb
+D:\Temp\obj\Debug\net8.0\Temp.genruntimeconfig.cache
+D:\Temp\obj\Debug\net8.0\ref\Temp.dll
